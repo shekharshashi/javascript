@@ -1,3 +1,3 @@
 # JavaScript
 
-Repository For Helpful code related to Javascript
+Repository for helpful code related to JavaScript
